@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dox/Algorithm/ResizeImage/build/bin",
+  "command": "/usr/bin/c++    -I/usr/local/include  -O3 -DNDEBUG   -o CMakeFiles/ResizeImage.dir/resizeimage.cpp.o -c /home/dox/Algorithm/ResizeImage/src/resizeimage.cpp",
+  "file": "/home/dox/Algorithm/ResizeImage/src/resizeimage.cpp"
+}
+]

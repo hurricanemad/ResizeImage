@@ -1,0 +1,13 @@
+/home/dox/Algorithm/ResizeImage/build/CMakeFiles/install.dir
+/home/dox/Algorithm/ResizeImage/build/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/ResizeImage/build/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/ResizeImage/build/CMakeFiles/install/local.dir
+/home/dox/Algorithm/ResizeImage/build/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/ResizeImage/build/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/ResizeImage/build/bin/CMakeFiles/install.dir
+/home/dox/Algorithm/ResizeImage/build/bin/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/ResizeImage/build/bin/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/ResizeImage/build/bin/CMakeFiles/ResizeImage.dir
+/home/dox/Algorithm/ResizeImage/build/bin/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/ResizeImage/build/bin/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/ResizeImage/build/bin/CMakeFiles/install/local.dir

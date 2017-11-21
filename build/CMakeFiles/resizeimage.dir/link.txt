@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/resizeimage.dir/main.cpp.o  -o resizeimage -rdynamic 
